@@ -5,7 +5,7 @@
   "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "nodemon src/express_01/app.js"
+    "dev": "nodemon src/_node/07_storage_redis/index.js"
   },
   "keywords": [],
   "author": "",
@@ -20,6 +20,7 @@
     "mongoose": "6.1.10",
     "multipart": "0.1.5",
     "mysql": "2.18.1",
+    "redis": "3.1.2",
     "serve-static": "1.14.2"
   }
 }
